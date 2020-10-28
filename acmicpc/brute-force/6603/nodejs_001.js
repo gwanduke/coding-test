@@ -1,4 +1,8 @@
-// https://www.acmicpc.net/problem/6603
+/**
+ * https://www.acmicpc.net/problem/6603
+ *
+ * TODO: 로또
+ */
 
 const readline = require("readline");
 const rl = readline.createInterface({
