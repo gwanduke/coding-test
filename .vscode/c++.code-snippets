@@ -1,0 +1,22 @@
+{
+  "node (single line)": {
+    "prefix": "cpp",
+    "body": [
+      "/**",
+      " * https://www.acmicpc.net/problem/$1",
+      " *",
+      " * $2",
+      " */",
+      "",
+      "#include <iostream>",
+      "#include <vector>",
+      "using namespace std;",
+      "",
+      "int main()",
+      "{",
+      "  return 0;",
+      "}"
+    ],
+    "description": ""
+  }
+}
