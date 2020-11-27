@@ -2,6 +2,8 @@
  * https://www.acmicpc.net/problem/2309
  *
  * 일곱 난쟁이
+ *
+ * O(N^3)
  */
 
 const readline = require("readline");
